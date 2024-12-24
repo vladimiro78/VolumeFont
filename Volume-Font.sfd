@@ -1,0 +1,189 @@
+SplineFontDB: 3.2
+FontName: Volume
+FullName: Volume
+FamilyName: Volume
+Weight: Bold
+Copyright: Copyright (c) 2024
+UComments: "Created with FontForge (http://fontforge.org)"
+Version: 7
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A" 1
+Layer: 1 0 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A" 0
+XUID: [1021 610 536228263 16697]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+TTFWeight: 700
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 200
+OS2WinAscent: 960
+OS2WinAOffset: 0
+OS2WinDescent: 240
+OS2WinDOffset: 0
+HheadAscent: 960
+HheadAOffset: 0
+HheadDescent: -240
+HheadDOffset: 0
+OS2CapHeight: 700
+OS2XHeight: 560
+OS2Vendor: 'LINO'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 14
+OnlyBitmaps: 1
+BeginPrivate: 0
+EndPrivate
+BeginChars: 700 700
+
+StartChar: space
+Encoding: 0 32 0
+Width: 300
+GlyphClass: 1
+LayerCount: 2
+EndChar
+
+StartChar: g160
+Encoding: 1 160 1
+Width: 300
+GlyphClass: 1
+LayerCount: 2
+EndChar
+
+StartChar: E
+Encoding: 2 69 2
+Width: 700
+GlyphClass: 1
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+84 700 l 1
+642 700 l 1
+642 560 l 1
+238 560 l 1
+238 440 l 1
+570 440 l 1
+570 300 l 1
+238 300 l 1
+238 140 l 1
+650 140 l 1
+650 0 l 1
+84 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: M
+Encoding: 3 77 3
+Width: 966
+GlyphClass: 1
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+84 700 l 1
+378 700 l 1
+468 480 l 1
+498 480 l 1
+588 700 l 1
+882 700 l 1
+882 0 l 1
+728 0 l 1
+728 580 l 1
+698 580 l 1
+608 360 l 1
+358 360 l 1
+268 580 l 1
+238 580 l 1
+238 0 l 1
+84 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10025
+Encoding: 4 1047 4
+Width: 670
+GlyphClass: 1
+LayerCount: 2
+Fore
+SplineSet
+330 -10 m 0
+200 -10 110 26 34 76 c 1
+100 200 l 1
+180 150 250 130 330 130 c 0
+410 130 470 150 470 210 c 0
+470 270 410 290 330 290 c 2
+200 290 l 1
+200 430 l 1
+330 430 l 2
+410 430 450 450 450 500 c 0
+450 550 410 570 330 570 c 0
+250 570 180 550 110 506 c 1
+46 630 l 1
+130 680 200 710 330 710 c 0
+500 710 610 640 610 520 c 0
+610 430 560 390 490 360 c 1
+570 340 630 300 630 200 c 0
+630 80 520 -10 330 -10 c 0
+EndSplineSet
+EndChar
+
+StartChar: afii10029
+Encoding: 5 1051 5
+Width: 700
+GlyphClass: 1
+LayerCount: 2
+Fore
+SplineSet
+24 0 m 1
+194 0 l 1
+432 580 l 1
+462 580 l 1
+462 0 l 1
+616 0 l 1
+616 700 l 1
+332 700 l 1
+24 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10037
+Encoding: 6 1059 6
+Width: 730
+GlyphClass: 1
+LayerCount: 2
+Fore
+SplineSet
+24 700 m 1
+194 700 l 1
+360 380 l 1
+400 380 l 1
+536 700 l 1
+706 700 l 1
+390 0 l 1
+220 0 l 1
+340 260 l 1
+260 260 l 1
+24 700 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

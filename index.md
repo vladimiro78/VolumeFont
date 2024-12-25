@@ -1,4 +1,3 @@
-Glyph E
-```
-M 84 0 V 700 H 642 V 560 H 238 V 440 H 570 V 300 H 238 V 140 H 650 V 0 Z
-```
+<html>
+<meta charset="UTF-8">
+</html>
